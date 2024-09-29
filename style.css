@@ -1,0 +1,17 @@
+body{
+    background-image: url(assets/bg-jpg.jpg);
+    background-size: cover;
+}
+
+#page{
+    width: 800px;
+    padding: 24px;
+    background-color: #F0E8CA;
+    border-radius: 24px;
+    margin: 48px auto;
+}
+
+:root{
+    font-family: "Alice", serif;
+    color: #573A37
+}
