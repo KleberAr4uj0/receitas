@@ -15,3 +15,8 @@ body{
     font-family: "Alice", serif;
     color: #573A37
 }
+footer{
+   color: #573A37;
+   text-align: center;
+   padding-bottom: 48px;
+}
